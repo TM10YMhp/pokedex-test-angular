@@ -1,0 +1,7 @@
+export * from './pokedex.component'
+export * from './baseStats.component'
+export * from './baseInfo.component'
+export * from './formPokedex.component'
+export * from './toolsPokedex.component'
+export * from './screenPokedex.component'
+export * from './detail-pokedex.component'
